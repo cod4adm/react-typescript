@@ -1,8 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4093cfd6-5ea1-4c68-850a-04834168820d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="public-test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fC5pwJIx0iXnPkPdwcVoeYsozB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="E:\projects\react\react-typescript\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4093cfd6-5ea1-4c68-850a-04834168820d" name="Default Changelist" comment="" />
+      <created>1595709420380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595709420380</updated>
+      <workItem from="1595709423643" duration="4565000" />
+      <workItem from="1595762452698" duration="6416000" />
+      <workItem from="1595788899821" duration="2733000" />
+      <workItem from="1595861315148" duration="391000" />
+      <workItem from="1596201343880" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1596201612233">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1596201612233" />
+    <state x="129" y="56" key="DiffContextDialog" timestamp="1596201592409">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1596201592409" />
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1595861710622">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1595861710622" />
+    <state x="504" y="80" key="RollbackChangesDialog" timestamp="1596201607349">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="504" y="80" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1596201607349" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1595789292788">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595789292788" />
   </component>
 </project>
